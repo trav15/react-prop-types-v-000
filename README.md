@@ -1,4 +1,4 @@
-# React PropTypes
+# React PropTypes Learn
 
 ## Overview
 
